@@ -2,8 +2,7 @@
 movedor de objetos en 3d y replicador - con salida spout
 Hecho y exportado en VVVV Gamma 5.2
 
-[Captura](./screenshots/movvvvedor01.png)
-
+![movvvvedor01](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/7de0e89e-c854-4a00-bfa9-991c959c0430)
 
 
 *Nota:* se puede hacer pan/tilt/orbit/zoom con el mouse. Presionando R se reestablece la camara
