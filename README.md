@@ -2,6 +2,19 @@
 movedor de objetos en 3d y replicador - con salida spout
 Hecho y exportado en VVVV Gamma 5.2
 
+
+# Descargar 
+
+**https://github.com/lisandroperalta/movvvvedorDeObjetos/releases/**
+
+## Modelos 3d para probar en
+
+https://github.com/lisandroperalta/movvvvedorDeObjetos/tree/main/modelos3DParaProbar
+
+
+
+
+
 --------------------------------- 
 
 *Si no funciona, se puede probar instalando las siguientes dependencias (extraido de https://thegraybook.vvvv.org/reference/hde/exporting.html#dependencies )*
