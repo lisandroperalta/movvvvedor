@@ -17,7 +17,7 @@ Hecho y exportado en VVVV Gamma 5.2
 
 ---------------------------------------------------
 
-*Si no funciona, se puede probar instalando las siguientes dependencias (extraido de https://thegraybook.vvvv.org/reference/hde/exporting.html#dependencies )*
+**Si no funciona, se puede probar instalando las siguientes dependencias (extraido de https://thegraybook.vvvv.org/reference/hde/exporting.html#dependencies )**
 
 
 **Dependencies**
