@@ -9,13 +9,13 @@ Hecho y exportado en VVVV Gamma 5.2
 
 ## Modelos 3d para probar en
 
-https://github.com/lisandroperalta/movvvvedorDeObjetos/tree/main/modelos3DParaProbar
+**https://github.com/lisandroperalta/movvvvedorDeObjetos/tree/main/modelos3DParaProbar**
 
 
 
 
 
---------------------------------- 
+---------------------------------------------------
 
 *Si no funciona, se puede probar instalando las siguientes dependencias (extraido de https://thegraybook.vvvv.org/reference/hde/exporting.html#dependencies )*
 
