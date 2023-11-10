@@ -30,5 +30,13 @@ Microsoft Visual C++ Redistributables 2015 https://aka.ms/vs/17/release/vc_redis
 
 .NET6 SDK (For FileTexture and FileModel nodes to work) https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
+---------------------------
 
 
+### IMPORTANTE
+Probando, con @jpupper encontramos que puede ser que ande instalando además, este otro sdk
+
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.403-windows-x64-installer
+
+*En todo caso, con instalar el vvvv gamma funciona, aunque no lo use*
+https://teamcity.vvvv.org/guestAuth/app/rest/builds/id:37342/artifacts/content/vvvv_gamma_5.2_setup.exe
