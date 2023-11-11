@@ -43,5 +43,5 @@ Probando, con @jpupper encontramos que puede ser que ande instalando además, es
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.403-windows-x64-installer
 
-*En todo caso, con instalar el vvvv gamma funciona, aunque no lo use*
+*En todo caso, con instalando el vvvv gamma funciona, aunque no lo use*
 https://teamcity.vvvv.org/guestAuth/app/rest/builds/id:37342/artifacts/content/vvvv_gamma_5.2_setup.exe
