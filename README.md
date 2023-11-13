@@ -8,6 +8,14 @@ Hecho y exportado en VVVV Gamma 5.2
 *Nota:* se puede hacer pan/tilt/orbit/zoom con el mouse. Presionando R se reestablece la camara
 
 
+
+# Nueva version: 003
+-Agregado más opciones de movimiento
+-Agregado de opcion de usar textura o no
+
+![version 002](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/c54d4ab8-b81f-4cc3-80b3-617c49d10508)
+
+
 # Descargar 
 
 **https://github.com/lisandroperalta/movvvvedorDeObjetos/releases/**
