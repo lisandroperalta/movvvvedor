@@ -18,13 +18,14 @@ Hecho y exportado en VVVV Gamma 5.2
 
 
 # Nueva version: 004
--para evitar crasheos, no se puede usar objeto 3d si antes no se carga uno 
--checkbox para usar la camara con el mouse o no
--clonado en x e y 
--velocidad de giro ahora permite no girar el objeto
--spread de giro define cada cuantas repeticiones se defasa un objeto
--las luces se mueven lentamente (para lograr que iluminen desde todos los angulos posibles)
--medidor de fps 
+-[FIX] para evitar crasheos, no se puede usar objeto 3d si antes no se carga uno 
+-[NEW] checkbox para usar la camara con el mouse o no
+-[NEW] clonado en x e y 
+-[NEW] velocidad de giro ahora permite no girar el objeto
+-[FIX] ahora no hay saltos en el giro, todos los objetos dan un giro completo
+-[NEW] spread de giro define cada cuantas repeticiones se defasa un objeto
+-[NEW] las luces se mueven lentamente (para lograr que iluminen desde todos los angulos posibles)
+-[NEW] medidor de fps 
 
 *Nota:* se puede hacer pan/tilt/orbit/zoom con el mouse. Presionando R se reestablece la camara
 
