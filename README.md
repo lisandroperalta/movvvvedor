@@ -2,10 +2,32 @@
 movedor de objetos en 3d y replicador - con salida spout
 Hecho y exportado en VVVV Gamma 5.2
 
-![movvvvedor01](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/7de0e89e-c854-4a00-bfa9-991c959c0430)
+
+# Descargar 
+
+**https://github.com/lisandroperalta/movvvvedorDeObjetos/releases/**
+
+## Modelos 3d para probar en
+
+**https://github.com/lisandroperalta/movvvvedorDeObjetos/tree/main/modelos3DParaProbar**
+
+
+![Captura de pantalla 2023-12-18 220537](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/0d27d0bd-0800-4c9b-896d-d039c7dce7fd)
 
 
 *Nota:* se puede hacer pan/tilt/orbit/zoom con el mouse. Presionando R se reestablece la camara
+
+
+# Nueva version: 004
+-para evitar crasheos, no se puede usar objeto 3d si antes no se carga uno 
+-checkbox para usar la camara con el mouse o no
+-clonado en x e y 
+-velocidad de giro ahora permite no girar el objeto
+-spread de giro define cada cuantas repeticiones se defasa un objeto
+-las luces se mueven lentamente (para lograr que iluminen desde todos los angulos posibles)
+
+
+![version 002](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/c54d4ab8-b81f-4cc3-80b3-617c49d10508)
 
 
 
