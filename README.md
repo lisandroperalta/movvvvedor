@@ -2,7 +2,7 @@
 movedor de objetos en 3d y replicador - con salida spout
 Hecho y exportado en VVVV Gamma 5.2
 
-
+ds
 # Descargar 
 
 **https://github.com/lisandroperalta/movvvvedorDeObjetos/releases/**
