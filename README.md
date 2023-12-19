@@ -24,6 +24,8 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 
 
 # Nueva version: 004
+-[NEW] se peuden cargar varias texturas, se distribuiran de acuerdo a los objetos que haya
+-[NEW] el quad se adapta al aspect ratio de cada textura cargada
 -[FIX] para evitar crasheos, no se puede usar objeto 3d si antes no se carga uno 
 -[NEW] checkbox para usar la camara con el mouse o no
 -[NEW] clonado en x e y 
