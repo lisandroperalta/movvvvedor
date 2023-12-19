@@ -15,7 +15,6 @@ Hecho y exportado en VVVV Gamma 5.2
 ![Captura de pantalla 2023-12-18 220537](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/0d27d0bd-0800-4c9b-896d-d039c7dce7fd)
 
 
-*Nota:* se puede hacer pan/tilt/orbit/zoom con el mouse. Presionando R se reestablece la camara
 
 
 # Nueva version: 004
@@ -25,9 +24,12 @@ Hecho y exportado en VVVV Gamma 5.2
 -velocidad de giro ahora permite no girar el objeto
 -spread de giro define cada cuantas repeticiones se defasa un objeto
 -las luces se mueven lentamente (para lograr que iluminen desde todos los angulos posibles)
+-medidor de fps 
+
+*Nota:* se puede hacer pan/tilt/orbit/zoom con el mouse. Presionando R se reestablece la camara
 
 
-![version 002](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/c54d4ab8-b81f-4cc3-80b3-617c49d10508)
+![Captura de pantalla 2023-12-19 144255](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/e7c88ada-7118-4416-96ba-ebd7dbf4d67b)
 
 
 
