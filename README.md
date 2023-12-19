@@ -3,8 +3,8 @@ movedor de objetos en 3d y replicador - con salida spout
 Hecho y exportado en VVVV Gamma 5.2
 
 # DONACION:
-Me di cuenta que hacer esto lleva tiempo y esfuerzo, y que de a poco se esta transformando en una herramienta "en serio"
-asi que se agredece una donacion para poder comprarme un bolsa (de cafe) para poder seguir haciendolo.
+Me di cuenta de que hacer esto lleva tiempo y esfuerzo, y que de a poco se está transformando en una herramienta "en serio"
+así que se agradece una donación para poder comprarme una bolsa (de cafe) para poder seguir haciéndolo.
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/lisandroperalta)
 
