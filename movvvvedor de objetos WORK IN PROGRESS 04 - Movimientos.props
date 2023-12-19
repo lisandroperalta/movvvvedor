@@ -5,9 +5,9 @@
     <VLCleanBuildDirectory>True</VLCleanBuildDirectory>
     <VLExportPath>$(MsBuildThisFileDirectory)..\..\Exports</VLExportPath>
     <VLTargetOS>Windows</VLTargetOS>
+    <ApplicationIcon>$(MsBuildThisFileDirectory)logo.ico</ApplicationIcon>
     <OutputType>WinExe</OutputType>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <TargetFramework>net6.0-windows</TargetFramework>
-    <ApplicationIcon>$(MsBuildThisFileDirectory)logo.ico</ApplicationIcon>
   </PropertyGroup>
 </Project>
