@@ -24,18 +24,18 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 
 
 # Nueva version: 004
--[NEW] se peuden cargar varias texturas, se distribuiran de acuerdo a los objetos que haya
+-[NEW] se pueden cargar varias texturas, se distribuirán de acuerdo a los objetos que haya
 -[NEW] el quad se adapta al aspect ratio de cada textura cargada
 -[FIX] para evitar crasheos, no se puede usar objeto 3d si antes no se carga uno 
 -[NEW] checkbox para usar la camara con el mouse o no
 -[NEW] clonado en x e y 
 -[NEW] velocidad de giro ahora permite no girar el objeto
 -[FIX] ahora no hay saltos en el giro, todos los objetos dan un giro completo
--[NEW] spread de giro define cada cuantas repeticiones se defasa un objeto
--[NEW] las luces se mueven lentamente (para lograr que iluminen desde todos los angulos posibles)
+-[NEW] spread de giro define cada cuántas repeticiones se desfasa un objeto
+-[NEW] las luces se mueven lentamente (para lograr que iluminen desde todos los ángulos posibles)
 -[NEW] medidor de fps 
 -[HOTFIX] corregida la velocidad de desplazamiento, ahora 0 la detiene por completo
--[CHANGED] se modifico la manera de recortar el alpha de las texturas en modo quad, ahora deberia estar mejor
+-[CHANGED] se modifico la manera de recortar el alpha de las texturas en modo quad, ahora debería estar mejor
 
 *Nota:* se puede hacer pan/tilt/orbit/zoom con el mouse. Presionando R se reestablece la camara
 
