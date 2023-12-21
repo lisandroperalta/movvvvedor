@@ -34,6 +34,8 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 -[NEW] spread de giro define cada cuantas repeticiones se defasa un objeto
 -[NEW] las luces se mueven lentamente (para lograr que iluminen desde todos los angulos posibles)
 -[NEW] medidor de fps 
+-[HOTFIX] corregida la velocidad de desplazamiento, ahora 0 la detiene por completo
+-[CHANGED] se modifico la manera de recortar el alpha de las texturas en modo quad, ahora deberia estar mejor
 
 *Nota:* se puede hacer pan/tilt/orbit/zoom con el mouse. Presionando R se reestablece la camara
 
