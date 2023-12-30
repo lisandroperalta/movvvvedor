@@ -25,6 +25,9 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 
 # Nueva version: 005
 
+Bastante laburo que no se ve, pero lo que se ve es lo siguiente:
+
+
 ![Alt text](image.png)
 
 -[NEW] Control independiente de velocidad de giro en X e Y (el 0 tiene una tolerancia para que sea mas facil detenerlo)
