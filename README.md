@@ -23,6 +23,8 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 
 
 
+
+
 # Nueva version: 004
 -[NEW] se pueden cargar varias texturas, se distribuirán de acuerdo a los objetos que haya
 -[NEW] el quad se adapta al aspect ratio de cada textura cargada
