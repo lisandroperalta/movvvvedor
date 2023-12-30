@@ -23,9 +23,23 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 
 
 
+# Nueva version: 005
+
+![Alt text](image.png)
+
+-[NEW] Control independiente de velocidad de giro en X e Y (el 0 tiene una tolerancia para que sea mas facil detenerlo)
+
+-[NEW] Control independiente de velocidad de desplazamiento en X e Y (el 0 tiene una tolerancia para que sea mas facil detenerlo)
+
+-[NEW] Control de encendido y apagador de cada una de las luces (deberia ahorrar recursos, no sé)
+
+-[NEW] Control de color de la luz ambiente
+
+-[CHANGED] Se configuro la salida a 1920x1080
 
 
-# Nueva version: 004
+#  version: 004
+
 -[NEW] se pueden cargar varias texturas, se distribuirán de acuerdo a los objetos que haya
 
 -[NEW] el quad se adapta al aspect ratio de cada textura cargada
@@ -57,7 +71,7 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 
 
 
-# Nueva version: 003
+#  version: 003
 -Agregado más opciones de movimiento
 -Agregado de opcion de usar textura o no
 
