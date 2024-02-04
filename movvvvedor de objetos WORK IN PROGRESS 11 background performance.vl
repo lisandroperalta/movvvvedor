@@ -2,55 +2,7 @@
 <Document xmlns:p="property" xmlns:r="reflection" Id="KfJxERhwB7PPzwv0cW7Szx" LanguageVersion="2023.5.2" Version="0.128">
   <NugetDependency Id="ARxGYirAM4eLe7nFnUe22L" Location="VL.CoreLib" Version="2023.5.2" />
   <Patch Id="VeNvLtVOh64O6HFI3MbCYt">
-    <Canvas Id="K1uBQ2C7wWzPllBMdYUz8o" DefaultCategory="Main" BordersChecked="false" CanvasType="FullCategory">
-      <!--
-
-    ************************ rotador ************************
-
--->
-      <Node Name="rotador" Bounds="200,100" Id="Phqnnnfx6fUOg7C4MrQcbq">
-        <p:NodeReference>
-          <Choice Kind="ContainerDefinition" Name="Process" />
-          <CategoryReference Kind="Category" Name="Primitive" />
-        </p:NodeReference>
-        <Patch Id="G1bcRujAJ3jMmRHN5AxFHn">
-          <Canvas Id="JXALKdkIELrNLoylxlPm1m" CanvasType="Group">
-            <Node Bounds="353,239,25,19" Id="Gvg50NGnbLkOlbyyLGKJlU">
-              <p:NodeReference LastCategoryFullName="Math" LastDependency="VL.CoreLib.vl">
-                <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
-                <Choice Kind="OperationCallFlag" Name="*" />
-              </p:NodeReference>
-              <Pin Id="Rl0yGYHmKmoLaJDktZOlMN" Name="Input" Kind="InputPin" />
-              <Pin Id="UVZ94nVreJOMYlQHebe60z" Name="Input 2" Kind="InputPin" />
-              <Pin Id="CnoJ7zr3DOAMyV6giHfGuP" Name="Output" Kind="OutputPin" />
-            </Node>
-            <ControlPoint Id="LwKjMudQmnuQSPvMTGN6Nr" Bounds="360,402" />
-            <ControlPoint Id="NMqje19py0HOEuslBmd1pg" Bounds="326,177" />
-            <ControlPoint Id="AZjl3Ooc9drOAcQ64k2HLc" Bounds="450,179" />
-          </Canvas>
-          <ProcessDefinition Id="I06NKrVMHv8OxDNxNiL7cS">
-            <Fragment Id="RmO5XfRwe1CPCmwfHgewga" Patch="Im31AxDgQB9LewBpfByEiu" Enabled="true" />
-            <Fragment Id="PrH8pGg2xXlQNJs937wz8g" Patch="MnZWf4MDVa6L9bVxFQxPJd" Enabled="true" />
-          </ProcessDefinition>
-          <Link Id="MBVA6PX6PPsPn9BuvOyXlt" Ids="CnoJ7zr3DOAMyV6giHfGuP,LwKjMudQmnuQSPvMTGN6Nr" />
-          <Link Id="C5vmudf04E7Np13igsMgAk" Ids="LwKjMudQmnuQSPvMTGN6Nr,TGkdQHt01TKLZork4X4JCX" IsHidden="true" />
-          <Link Id="Mc6gNOKX3pUOYnx2c2bI9C" Ids="NMqje19py0HOEuslBmd1pg,Rl0yGYHmKmoLaJDktZOlMN" />
-          <Link Id="IJBU6gJKqYKOKIqPjkbzi4" Ids="Lc36ZK1pCh9OeV4y52HvA0,NMqje19py0HOEuslBmd1pg" IsHidden="true" />
-          <Link Id="HEIEjSVYb41MqsKwnhTaNK" Ids="AZjl3Ooc9drOAcQ64k2HLc,UVZ94nVreJOMYlQHebe60z" />
-          <Link Id="Bwi9V3Nge2LM0RjeqXDV95" Ids="TplCbdWDv6aP8lh1Bz9GQe,AZjl3Ooc9drOAcQ64k2HLc" IsHidden="true" />
-          <Patch Id="Im31AxDgQB9LewBpfByEiu" Name="Create" />
-          <Patch Id="MnZWf4MDVa6L9bVxFQxPJd" Name="Update">
-            <Pin Id="Lc36ZK1pCh9OeV4y52HvA0" Name="Input" Kind="InputPin" Bounds="326,177">
-              <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
-                <Choice Kind="TypeFlag" Name="Integer16" />
-              </p:TypeAnnotation>
-            </Pin>
-            <Pin Id="TplCbdWDv6aP8lh1Bz9GQe" Name="Input 2" Kind="InputPin" Bounds="450,179" />
-            <Pin Id="TGkdQHt01TKLZork4X4JCX" Name="Output" Kind="OutputPin" Bounds="360,402" />
-          </Patch>
-        </Patch>
-      </Node>
-    </Canvas>
+    <Canvas Id="K1uBQ2C7wWzPllBMdYUz8o" DefaultCategory="Main" BordersChecked="false" CanvasType="FullCategory" />
     <!--
 
     ************************ Application ************************
@@ -3911,7 +3863,7 @@
             <Pin Id="AuC8AyhA5njQJau0WtmXQ7" Name="Input" Kind="InputPin" />
             <Pin Id="PQgoAJcDjhyPOHvQxafzAP" Name="Camera" Kind="InputPin" />
             <Pin Id="Nf9oBLaoRHSNKsqDcRdPrG" Name="Enable Default Camera" Kind="InputPin" />
-            <Pin Id="NYB2aHYG4GBPNr8fa0Lz95" Name="Title" Kind="InputPin" DefaultValue="Movvvvedor" />
+            <Pin Id="NYB2aHYG4GBPNr8fa0Lz95" Name="Title" Kind="InputPin" />
             <Pin Id="IDOeb9VQikWOrlxAevEts0" Name="Clear Color" Kind="InputPin" />
             <Pin Id="ShsuvfR8RIALWSulSqvCyB" Name="Clear" Kind="InputPin" />
             <Pin Id="TY75VythebAQA1jNTZD7iC" Name="Post Effects" Kind="InputPin" />

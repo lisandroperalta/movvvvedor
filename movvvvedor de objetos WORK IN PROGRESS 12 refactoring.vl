@@ -3911,7 +3911,7 @@
             <Pin Id="AuC8AyhA5njQJau0WtmXQ7" Name="Input" Kind="InputPin" />
             <Pin Id="PQgoAJcDjhyPOHvQxafzAP" Name="Camera" Kind="InputPin" />
             <Pin Id="Nf9oBLaoRHSNKsqDcRdPrG" Name="Enable Default Camera" Kind="InputPin" />
-            <Pin Id="NYB2aHYG4GBPNr8fa0Lz95" Name="Title" Kind="InputPin" DefaultValue="Movvvvedor" />
+            <Pin Id="NYB2aHYG4GBPNr8fa0Lz95" Name="Title" Kind="InputPin" />
             <Pin Id="IDOeb9VQikWOrlxAevEts0" Name="Clear Color" Kind="InputPin" />
             <Pin Id="ShsuvfR8RIALWSulSqvCyB" Name="Clear" Kind="InputPin" />
             <Pin Id="TY75VythebAQA1jNTZD7iC" Name="Post Effects" Kind="InputPin" />
