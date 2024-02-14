@@ -17,8 +17,8 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 
 **https://github.com/lisandroperalta/movvvvedorDeObjetos/tree/main/modelos3DParaProbar**
 
+![image](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/092e0465-f345-49cb-b7f7-2634ae5b0347)
 
-![Captura de pantalla 2023-12-18 220537](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/0d27d0bd-0800-4c9b-896d-d039c7dce7fd)
 
 
 
