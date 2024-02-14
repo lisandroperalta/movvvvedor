@@ -23,6 +23,30 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 
 
 
+# Nueva version: 006
+
+Mucho laburo que no se vé, sobre todo GRAN MEJORA DEL RENDIMIENTO 
+
+
+![Alt text](image.png)
+
+-[CHANGED] Repatcheado de las pasadas de salida, ya no se dibuja dos veces la escena lo que trae un gran aumento del rendimiento. 
+
+-[NEW] Se puede elegir si la salida es 720 o 1080
+
+-[NEW] Se reordenó todo el menú y ahora las secciones son colapsables
+
+-[NEW] Se agregó control independiente de offset en X e y (espaciado entre objetos)
+
+-[NEW] Se agregó una opcion de SPOUT INPUT. La entrada se puede usar para controlar la escala de cada objeto y para controlar el color eligiendo si se aplica toda la textura a cada objeto o si semapea cada uno de acuerdo a su posicion en la grilla
+
+
+
+
+
+
+
+
 # Nueva version: 005
 
 Bastante laburo que no se ve, pero lo que se ve es lo siguiente:
