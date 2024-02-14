@@ -28,7 +28,6 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 Mucho laburo que no se vé, sobre todo GRAN MEJORA DEL RENDIMIENTO 
 
 
-![Alt text](image.png)
 
 -[CHANGED] Repatcheado de las pasadas de salida, ya no se dibuja dos veces la escena lo que trae un gran aumento del rendimiento. 
 
