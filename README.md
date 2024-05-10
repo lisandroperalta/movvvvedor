@@ -20,7 +20,8 @@ así que se agradece una donación para poder comprarme una bolsa (de cafe) para
 ![image](https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/092e0465-f345-49cb-b7f7-2634ae5b0347)
 
 
-
+# Nueva version: 007
+COMING SOON
 
 
 # Nueva version: 006
