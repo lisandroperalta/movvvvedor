@@ -3906,8 +3906,8 @@
                     <Pin Id="EtEz7KSF2B5LKEtgUqBDcg" Name="Transformation" Kind="InputPin" />
                     <Pin Id="GQtCmDVE8hGOlBZHdCPRAL" Name="Size" Kind="InputPin" />
                     <Pin Id="FQCWiPOpbwLOajGRFU6rQV" Name="Tessellation" Kind="InputPin" />
-                    <Pin Id="MNkgcztoZbuOzJ5CCU6r2C" Name="Normal" Kind="InputPin" />
-                    <Pin Id="Noo4kJi3xmEOD8xFidqtyC" Name="Generate Back Face" Kind="InputPin" />
+                    <Pin Id="MNkgcztoZbuOzJ5CCU6r2C" Name="Normal" Kind="InputPin" DefaultValue="UpZ" />
+                    <Pin Id="Noo4kJi3xmEOD8xFidqtyC" Name="Generate Back Face" Kind="InputPin" DefaultValue="False" />
                     <Pin Id="O2ep5xIBU5KLsqRM94dpim" Name="Material" Kind="InputPin" />
                     <Pin Id="BoGdQg6BNhCMYZBrf83uES" Name="Is Shadow Caster" Kind="InputPin" />
                     <Pin Id="OsEJSwcRrivMqUxbuN9CLw" Name="Components" Kind="InputPin" />
@@ -3925,18 +3925,6 @@
                     <Pin Id="BTUuBzHFOUWQTxBYdhryZ9" Name="TransformIn" Kind="InputPin" />
                     <Pin Id="Dk8A4PZRy7RPzd6MGB32Hg" Name="textureIn" Kind="InputPin" />
                     <Pin Id="MncDRhKCP5IPWU6GYJEZe1" Name="TransformOut" Kind="OutputPin" />
-                  </Node>
-                  <Node Bounds="1771,1876,45,19" Id="R92SyRDWctNOTEFdPEemvz">
-                    <p:NodeReference LastCategoryFullName="3D.Transform" LastDependency="VL.CoreLib.vl">
-                      <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
-                      <CategoryReference Kind="Category" Name="Transform" NeedsToBeDirectParent="true">
-                        <p:OuterCategoryReference Kind="Category" Name="3D" NeedsToBeDirectParent="true" />
-                      </CategoryReference>
-                      <Choice Kind="OperationCallFlag" Name="Rotate" />
-                    </p:NodeReference>
-                    <Pin Id="RYknBa7wIOWNGK7BZBPwti" Name="Input" Kind="InputPin" />
-                    <Pin Id="JkNssvrCaVEOb3a54umobJ" Name="Rotation" Kind="InputPin" DefaultValue="0.25, 0, 0" />
-                    <Pin Id="VrUTykVs1QiO2hjQb4oUeF" Name="Output" Kind="OutputPin" />
                   </Node>
                 </Patch>
               </Node>
@@ -5119,7 +5107,6 @@
         <Link Id="HAAAxPXHI8JNJ2LvBTPMHH" Ids="JI57SB92kXeNwwA6vs43xb,QTjR95rJxrUPUxJKXZJY5j" />
         <Link Id="Mq0JNaR6ZNDPt0t7IDgzul" Ids="Ha3TObVCbg3LKguTxJeJIF,OVRg3U2VBV1PnjqzUc3Wpn" />
         <Link Id="QvW5ZfRSuuOPA5Tj7MIIWk" Ids="SNHg3WFaMneOLIorZyf6M0,I0PUJssujG0M7s8DRMmD2N" />
-        <Link Id="TsLWAgwtLCBPkaS20jw5yk" Ids="MncDRhKCP5IPWU6GYJEZe1,RYknBa7wIOWNGK7BZBPwti" />
         <Link Id="F21pPFPQcb4LvAvm13yjHt" Ids="SNHg3WFaMneOLIorZyf6M0,Oe2Uay2mo2fLqG2eNr0Mmb" />
         <Link Id="MsOXdEEODAuL82NiZdU9zZ" Ids="NuoiwqKOTtgNSzYmBzeUuV,EBQgoWeM1TdMkfkLSJmEXt" />
         <Link Id="RyTMAu7sWWKPwqWiy6rz95" Ids="Pu4BQLuvVzQLzmofsZhlb8,N6bPy3lw5WlOhG2cqqL4jE" />
@@ -5227,7 +5214,6 @@
         <Link Id="LmeR8rNVCEDLEd5og0tko1" Ids="UdcO3Xq0YQnQBC3K5n73Tq,BiS98um2SbFN2GwyTZNaCB" />
         <Link Id="UqZCAPW5Vd9OOi3paTibeV" Ids="V0qJRe4Rn4dL2b7fw7aBmz,MvLUPYjGi98P8Xnxh4klry" />
         <Link Id="UPlhN3QeaIDLBFVM6YqsEA" Ids="KwUCADTeYIUPwhaBIpPRby,BTUuBzHFOUWQTxBYdhryZ9" />
-        <Link Id="NNhccJuSKYZPyj1gjBcEyY" Ids="VrUTykVs1QiO2hjQb4oUeF,EtEz7KSF2B5LKEtgUqBDcg" />
         <Link Id="F913Gmzn1h6OZBjagAXu2r" Ids="GnspntRmC0oPVzrzbPzfiI,OwfsdobzU4TOpqcm4YGWL3" />
         <Link Id="LOfobHgUQHROVU9xLw8bd3" Ids="OwfsdobzU4TOpqcm4YGWL3,VB0UQD6nufFNbuuo2ZTrrZ" />
         <Link Id="QPFxpTHHY7AP7ZkRG7k85M" Ids="BQ9Y0YexTrzLbebqh94ylW,Nan5rpZio96MwFaXxBlF8W" />
@@ -5244,6 +5230,7 @@
         <Link Id="SLnipydFqUfLLSYBzALCRA" Ids="J25bdQiHRquN7YMh7k8bUQ,MKbbpPmqfYHL60aJMBZHwP" />
         <Link Id="Nipkk7Zire7QMHMXsBj9CF" Ids="VsnhJ3VuZp4QZOl8uZA74s,SqyNo8yBCI7NBen0NppQ80" />
         <Link Id="BHcHwcVa8LtNDv67ZThxuq" Ids="GeL332MS9XKMRowLwIzOaz,VsnhJ3VuZp4QZOl8uZA74s" />
+        <Link Id="F7QkjmUBfKmPfbOsqKM1pm" Ids="MncDRhKCP5IPWU6GYJEZe1,EtEz7KSF2B5LKEtgUqBDcg" />
       </Patch>
     </Node>
   </Patch>
