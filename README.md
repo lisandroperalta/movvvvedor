@@ -5,6 +5,11 @@ Spout enabled 3D Object replicator and mover. \
 movedor de objetos en 3d y replicador - con salida spout.\
 Hecho y exportado en VVVV Gamma 5.2
 
+
+
+https://github.com/lisandroperalta/movvvvedor/assets/23583735/e6af0783-e1cd-4dfc-8fac-be3c4de33347
+
+
 # Disclaimer
 Movvvvedor es una herramienta que he desarrollado para atender mis necesidades y exploraciones personales. Aunque está disponible para descarga gratuita y puede ser utilizada y modificada según sus necesidades, es importante tener en cuenta que algunas decisiones de diseño responden a criterios y preferencias personales. Siéntase libre de adaptarlo a sus requerimientos, sin embargo, es poco probable que se acepten modificaciones externas.
 
