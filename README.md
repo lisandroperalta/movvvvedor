@@ -31,8 +31,9 @@ Also, feel free to tag me on IG @lisandro.peralta or post using the #movvvvedor 
 
 ## Latest version: 008
 
-**Important:** since its upgraded to Gamma 6.4 there may be some issues on first time launching, check the Troubleshooting section (written for the 5.2 version) just in case 
+**Important:** since its upgraded to Gamma 6.4 there may be some issues on first time launching, check the Troubleshooting section (written for the 5.2 version) just in case.\
 
+[CHANGED] Now it is called just "movvvedor" to make it easy
 [NEW] Slowly migrating GUI to english for universal reasons\
 [NEW] Additive texture mode\
 [NEW] Billboard mode makes all the objects always face to the camera
@@ -140,6 +141,8 @@ Bastante laburo que no se ve, pero lo que se ve es lo siguiente:
 
 ---------------------------------------------------
 ## Troubleshooting
+
+## TL;DR: At the end of the day, you can always install the latest version of VVVV Gamma https://visualprogramming.net/download/ and it will install all the neccesary dependencies 
 
 **Si no funciona, se puede probar instalando las siguientes dependencias (extraido de https://thegraybook.vvvv.org/reference/hde/exporting.html#dependencies )**
 
