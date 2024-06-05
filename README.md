@@ -40,7 +40,7 @@ Also, feel free to tag me on IG @lisandro.peralta or post using the #movvvvedor 
 **Important:** since its upgraded to Gamma 6.4 there may be some issues on first time launching, check the Troubleshooting section (written for the 5.2 version) just in case.\
 
 [CHANGED] Lot of small and silly mistakes fixed thanks to the thoughtful feedback from my bro Fede Gonzalez ( @primeramentedg in IG )\
-[CHANGED] Now it is called just "movvvedor" for the sake of simplicity
+[CHANGED] Now it is called just "movvvedor" for the sake of simplicity\
 [NEW] Slowly migrating GUI to english for universal reasons\
 [NEW] Additive texture mode\
 [NEW] Billboard mode makes all the objects always face to the camera\
@@ -48,7 +48,7 @@ Also, feel free to tag me on IG @lisandro.peralta or post using the #movvvvedor 
 [NEW] Enviroment textures\
 [CHANGED] Redesigned collapsable GUI with colors for readability\
 [CHANGED] Migrated to the new VVVV Gamma 6.4 wich promises is faster than the previous\
-[CHANGED] Custom resolution output\
+[CHANGED] Custom resolution output
 
 
 <img src="https://github.com/lisandroperalta/movvvvedor/assets/23583735/1f398943-8951-4599-a2a8-6f5388cae924" width="360">
