@@ -39,6 +39,7 @@ Also, feel free to tag me on IG @lisandro.peralta or post using the #movvvvedor 
 
 **Important:** since its upgraded to Gamma 6.4 there may be some issues on first time launching, check the Troubleshooting section (written for the 5.2 version) just in case.\
 
+[CHANGED] Lot of small and silly mistakes fixed thanks to the thoughtful feedback from my bro Fede Gonzalez ( @primeramentedg in IG )\
 [CHANGED] Now it is called just "movvvedor" for the sake of simplicity
 [NEW] Slowly migrating GUI to english for universal reasons\
 [NEW] Additive texture mode\
