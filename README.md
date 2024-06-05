@@ -1,5 +1,5 @@
 # movvvvedorDeObjetos
-Spout enabled VJing tool for 3D Object displaying, replicating and moving. \
+Spout enabled VJing tool for  displaying, replicating and moving 3D Objects. \
 Available in .VL and Executable flavors\
 (Currently) Developed in VVVV Gamma 6.4
 
