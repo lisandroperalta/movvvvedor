@@ -1,9 +1,11 @@
 # movvvvedorDeObjetos
 Spout enabled 3D Object replicator and mover. \
+Available in .VL and Executable flavors\
 (Currently) Developed in VVVV Gamma 6.4
 
 movedor de objetos en 3d y replicador - con salida spout.\
-Hecho y exportado en VVVV Gamma 5.2
+En version .VL y ejecutable standalone\
+Hecho y exportado en VVVV Gamma 6.4
 
 
 
@@ -37,13 +39,16 @@ Also, feel free to tag me on IG @lisandro.peralta or post using the #movvvvedor 
 
 **Important:** since its upgraded to Gamma 6.4 there may be some issues on first time launching, check the Troubleshooting section (written for the 5.2 version) just in case.\
 
-[CHANGED] Now it is called just "movvvedor" to make it easy
+[CHANGED] Now it is called just "movvvedor" for the sake of simplicity
 [NEW] Slowly migrating GUI to english for universal reasons\
 [NEW] Additive texture mode\
-[NEW] Billboard mode makes all the objects always face to the camera
-[CHANGED] Redesigned GUI with colors for readability\
+[NEW] Billboard mode makes all the objects always face to the camera\
+[NEW] Metalness/Roughness material properties\
+[NEW] Enviroment textures\
+[CHANGED] Redesigned collapsable GUI with colors for readability\
 [CHANGED] Migrated to the new VVVV Gamma 6.4 wich promises is faster than the previous\
 [CHANGED] Custom resolution output\
+
 
 <img src="https://github.com/lisandroperalta/movvvvedor/assets/23583735/1f398943-8951-4599-a2a8-6f5388cae924" width="360">
 
