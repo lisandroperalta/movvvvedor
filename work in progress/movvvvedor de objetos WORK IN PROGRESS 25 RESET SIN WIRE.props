@@ -3,7 +3,7 @@
   <PropertyGroup>
     <VLAssetBehavior>PointToOutput</VLAssetBehavior>
     <VLCleanBuildDirectory>True</VLCleanBuildDirectory>
-    <VLExportPath>$(MsBuildThisFileDirectory)..\..\Exports\movvvvedor009</VLExportPath>
+    <VLExportPath>$(MsBuildThisFileDirectory)..\..\..\Exports</VLExportPath>
     <VLTargetOS>Windows</VLTargetOS>
     <OutputType>WinExe</OutputType>
     <PlatformTarget>x64</PlatformTarget>
