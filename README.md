@@ -1,11 +1,11 @@
 # movvvvedorDeObjetos
 Spout enabled VJing tool for  displaying, replicating and moving 3D Objects. \
 Available in .VL and Executable flavors\
-(Currently) Developed in VVVV Gamma 6.4
+(Currently) Developed in VVVV Gamma 6.7
 
 movedor de objetos en 3d y replicador - con salida spout.\
 En version .VL y ejecutable standalone\
-Hecho y exportado en VVVV Gamma 6.4
+Hecho y exportado en VVVV Gamma 6.7
 
 
 
