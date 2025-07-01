@@ -45,7 +45,7 @@ CHANGED] Reordered the menu
 [NEW] Lights can be static or can be moving as used to do
 
 
-![imagen](https://github.com/user-attachments/assets/0ce55694-8a7a-4167-83c7-d6022f4a11d6)
+<img src="https://github.com/user-attachments/assets/0ce55694-8a7a-4167-83c7-d6022f4a11d6" width="360">
 
 ## version 008
 
