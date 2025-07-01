@@ -37,12 +37,13 @@ Also, feel free to tag me on IG @lisandro.peralta or post using the #movvvvedor 
 
 ## Latest Version: 009
 **Important:** since its upgraded to Gamma 6.7 there may be some issues on first time launching, check the Troubleshooting section (written for the 5.2 version) just in case.\
-CHANGED] Reordered the menu
-[NEW] Added a lot of RESET buttons to the values that matter most
-[NEW] Global rotation that affects the objs as a whole and doesn´t affect the camera (thus, the lights)
-[NEW] ANCHOR parameter, test it and tell me what you think
-[NEW] Slowly adding a damper to some values to smooth the reaction
-[NEW] Lights can be static or can be moving as used to do
+\
+[CHANGED] Reordered the menu\
+[NEW] Added a lot of RESET buttons to the values that matter most\
+[NEW] Global rotation that affects the objs as a whole and doesn´t affect the camera (thus, the lights)\
+[NEW] ANCHOR parameter, test it and tell me what you think\
+[NEW] Slowly adding a damper to some values to smooth the reaction\
+[NEW] Lights can be static or can be moving as used to do\
 
 
 <img src="https://github.com/user-attachments/assets/0ce55694-8a7a-4167-83c7-d6022f4a11d6" width="360">
