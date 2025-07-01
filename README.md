@@ -35,7 +35,19 @@ Also, feel free to tag me on IG @lisandro.peralta or post using the #movvvvedor 
 
 # Change log
 
-## Latest version: 008
+## Latest Version: 009
+**Important:** since its upgraded to Gamma 6.7 there may be some issues on first time launching, check the Troubleshooting section (written for the 5.2 version) just in case.\
+CHANGED] Reordered the menu
+[NEW] Added a lot of RESET buttons to the values that matter most
+[NEW] Global rotation that affects the objs as a whole and doesn´t affect the camera (thus, the lights)
+[NEW] ANCHOR parameter, test it and tell me what you think
+[NEW] Slowly adding a damper to some values to smooth the reaction
+[NEW] Lights can be static or can be moving as used to do
+
+
+![imagen](https://github.com/user-attachments/assets/0ce55694-8a7a-4167-83c7-d6022f4a11d6)
+
+## version 008
 
 **Important:** since its upgraded to Gamma 6.4 there may be some issues on first time launching, check the Troubleshooting section (written for the 5.2 version) just in case.\
 
@@ -53,10 +65,10 @@ Also, feel free to tag me on IG @lisandro.peralta or post using the #movvvvedor 
 
 <img src="https://github.com/lisandroperalta/movvvvedor/assets/23583735/1f398943-8951-4599-a2a8-6f5388cae924" width="360">
 
-## Nueva version: 007
+## version 007
 Forgot to upload it because of summer vacations.
 
-## Nueva version: 006
+## version 006
 
 Mucho laburo que no se vé, sobre todo GRAN MEJORA DEL RENDIMIENTO 
 
@@ -76,7 +88,7 @@ Mucho laburo que no se vé, sobre todo GRAN MEJORA DEL RENDIMIENTO
 <img src="https://github.com/lisandroperalta/movvvvedorDeObjetos/assets/23583735/092e0465-f345-49cb-b7f7-2634ae5b0347" width="360">
 
 
-## Nueva version: 005
+##  version 005
 
 Bastante laburo que no se ve, pero lo que se ve es lo siguiente:
 
